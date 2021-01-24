@@ -1,4 +1,6 @@
 # STARTER-jpa02
+Name: Antonio Medina
+9819137
 
 * TODO: Change the title of this README 
   in the text `# STARTER-jpa02` above
